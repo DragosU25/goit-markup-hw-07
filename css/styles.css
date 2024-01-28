@@ -476,7 +476,7 @@ body {
   }
 }
 
-@media (width>=1440px) {
+@media (width>=1158px) {
   .mobile-contact .mobile-nav-list {
     flex-direction: row;
     gap: 40px;
@@ -614,7 +614,7 @@ body {
   }
 }
 
-@media (width>=1440px) {
+@media (width>=1158px) {
   .inline-icons {
     display: flex;
     gap: 24px;
@@ -650,7 +650,7 @@ body {
   padding: 96px 0;
 }
 
-@media (width>=1440) {
+@media (width>=1158px) {
   .section {
     padding: 120px 0;
   }
@@ -677,7 +677,7 @@ body {
   display: none;
 }
 
-@media (width>=1440px) {
+@media (width>=1158px) {
   .images-section {
     display: inherit;
   }
@@ -745,7 +745,7 @@ body {
   }
 }
 
-@media (width>=1440px) {
+@media (width>=1158px) {
   .team-meber {
     max-width: 264px;
   }
@@ -1014,7 +1014,7 @@ input[placeholder="E-mail"] {
   }
 }
 
-@media (width>=1440px) {
+@media (width>=1158px) {
   .footer-container {
     gap: 80px;
     padding: 0;
